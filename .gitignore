@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Scraper output / cache files
+*.log
+*.csv
+*.json
+*.db
+*.sqlite
+*.xlsx
+output/
+data/
+cache/
+tmp/
+*.tmp
+
+# Environment variables
+.env
+
+# Selenium WebDriver binaries
+chromedriver
+geckodriver
+msedgedriver
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Test reports and coverage
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.cache
+
+# pip tools
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+dist/
+build/
+*.spec
